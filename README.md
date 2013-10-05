@@ -1,4 +1,4 @@
 unicode.yaml
 ============
 
-unicode symbols in yaml format.
+A (not yet complete) list of unicode symbols in yaml format.
