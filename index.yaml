@@ -620,6 +620,7 @@ Arabic Mathematical Alphabetic Symbols:
   start: '1EE00'
   end: '1EEFF'
 Mahjong Tiles:
+  src: 'blocks/mahjong_tiles.yaml'
   start: '1F000'
   end: '1F02F'
 Domino Tiles:
