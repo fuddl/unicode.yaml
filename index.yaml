@@ -624,6 +624,7 @@ Mahjong Tiles:
   start: '1F000'
   end: '1F02F'
 Domino Tiles:
+  src: 'blocks/domino_tiles.yaml'
   start: '1F030'
   end: '1F09F'
 Playing Cards:
